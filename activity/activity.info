@@ -1,0 +1,8 @@
+[Activity]
+name = Micropolis
+activity_version = 8
+icon = activity-micropolis
+service_name = org.laptop.Micropolis
+exec = bin/Micropolis
+show_launcher = yes
+license = GPLv3+
